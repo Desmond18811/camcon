@@ -236,6 +236,12 @@ const Create = ({ onClose, userData }) => {
                     </div>
                 </div>
 
+                {isLoadingPost && (
+                    <div className="loading-overlay">
+                        <div className="loading-spinner" />
+                    </div>
+                )}
+
                 {showSuccess && (
                     <div className="success-message">Document posted successfully!</div>
                 )}
