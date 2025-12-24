@@ -17,7 +17,7 @@ import {
     Check,
     Menu
 } from 'lucide-react';
-import '../styles/HomePage.css';
+import '../styles/Homepage.css';
 import Create from './Create';
 import SettingsComponent from './Settings';
 import ResourceDetailPopup from './ResourceDetailPopup';
