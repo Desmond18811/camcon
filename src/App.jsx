@@ -13,7 +13,7 @@ import Settings from './Components/Settings.jsx';
 import ForgotPassWord from './Components/ForgotPassword.jsx';
 import ResetPassword from './Components/ResetPassword.jsx';
 import Comments from './Components/Comments.jsx';
-import LikedPostsPopup from "./Components/LikedPostsPopUp.jsx";
+import LikedPostsPopup from "./Components/LikedPostsPopup.jsx";
 import AuthSuccess from "./Components/AuthSuccess.jsx";
 import Help from "./Components/Help.jsx";
 import PrivacySupport from "./Components/PrivacySupport.jsx";
